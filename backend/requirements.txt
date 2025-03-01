@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+twilio
+livekit-client
+transformers
+torch
+torchaudio
